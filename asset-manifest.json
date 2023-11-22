@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/havona/static/css/main.e2c79f41.css",
-    "main.js": "/havona/static/js/main.8e4cbd28.js",
-    "static/media/cloud.png": "/havona/static/media/cloud.20f353f873a9b27949a9.png",
+    "main.css": "/havona/static/css/main.58581bb8.css",
+    "main.js": "/havona/static/js/main.ad8452de.js",
+    "static/media/city.jpg": "/havona/static/media/city.bec413c4a34b94fe023a.jpg",
+    "static/media/WeatherIcons.gif": "/havona/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background.jpg": "/havona/static/media/background.557a9309bec30e5e09e5.jpg",
     "index.html": "/havona/index.html",
-    "main.e2c79f41.css.map": "/havona/static/css/main.e2c79f41.css.map",
-    "main.8e4cbd28.js.map": "/havona/static/js/main.8e4cbd28.js.map"
+    "main.58581bb8.css.map": "/havona/static/css/main.58581bb8.css.map",
+    "main.ad8452de.js.map": "/havona/static/js/main.ad8452de.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2c79f41.css",
-    "static/js/main.8e4cbd28.js"
+    "static/css/main.58581bb8.css",
+    "static/js/main.ad8452de.js"
   ]
 }
