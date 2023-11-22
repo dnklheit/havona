@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/havona/static/css/main.e2c79f41.css",
+    "main.js": "/havona/static/js/main.8e4cbd28.js",
+    "static/media/cloud.png": "/havona/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/havona/index.html",
+    "main.e2c79f41.css.map": "/havona/static/css/main.e2c79f41.css.map",
+    "main.8e4cbd28.js.map": "/havona/static/js/main.8e4cbd28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2c79f41.css",
+    "static/js/main.8e4cbd28.js"
+  ]
+}
